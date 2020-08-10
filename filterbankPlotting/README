@@ -1,0 +1,4 @@
+filQuickPlot.py
+---------------
+
+Plot stokes data from Sigproc filterbanks with matplotlib. Re-uses the figure object and animations backend to significantly speed up plotting.

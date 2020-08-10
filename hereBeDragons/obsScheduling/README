@@ -1,0 +1,10 @@
+quickScheduler.py
+-----------------
+
+A file used to chain multiple LOFAR observations once you know he times / pointings they will occur at. Depends on sleepuntil.sh being in the local folder or on your path.
+
+
+surveyProc.py
+-------------
+
+A file to quickly generate all the parameters and header files needed to process pulsar observations with my modified version of CDMT. No longer advisable to use as it doesn't correctly calculate the bin size / overlap sizes needed.

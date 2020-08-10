@@ -1,0 +1,4 @@
+solar357QuickPlot.py
+--------------------
+
+Plot a block of data from a raw Stokes I dump (sigproc format, no header) of a KBT mode 357 observation

@@ -1,0 +1,20 @@
+quickCand.py
+------------
+
+Generated a number of plots for a given Heimdall candidate file: the raw data block, dedispersed pulse profile, decimated in frequency and time.
+
+
+quickCand2H5.py
+---------------
+
+Messily modified version of the candidate plotter to save each incoherently dedispersed pulse sample to a H5 file.
+
+manualDedispersion.py
+---------------------
+
+Example script made for some interns to demonstrate how to incoherently dedisperse a block of data.
+
+fitPowerLaw.py
+--------------
+
+A script written to fix a power law to the number of pulse candidates, extracted from a Jupyter notebook. Could be re-worked to work for arbitrary number of inputs rather than manually setting up N variables for each observing epoch.
